@@ -32,7 +32,7 @@
   "types": "./index.d.ts",
   "dependencies": {
     "@types/jquery": "^2.0.40",
-    "bootstrap-daterangepicker": "^2.1.25",
+    "bootstrap-daterangepicker": "git+https://git@github.com/sebvieira/bootstrap-daterangepicker",
     "jquery": "^3.1.1",
     "moment": "^2.16.0"
   },
